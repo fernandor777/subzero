@@ -75,7 +75,7 @@ pom.xml and you are ready to roll!
 <dependency>
     <groupId>info.jerrinot</groupId>
     <artifactId>subzero-all</artifactId>
-    <version>0.9</version>
+    <version>0.10</version>
 </dependency>
 ````        
 This version has all dependencies packaged inside. You can also use a 
